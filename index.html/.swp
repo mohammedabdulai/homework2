@@ -12,5 +12,8 @@
 <blockquote>This is a blockquote</blockquote>
 <hr/>
 <img src="#" />
-
+<div>
+<h2>DIVISION</h2>
+<p>This is the content in my division</p>
+</div>
 </html>
